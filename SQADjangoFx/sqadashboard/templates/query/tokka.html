@@ -1,0 +1,48 @@
+
+<html>
+<title>jQuery Show Hide Using Select Box</title>
+<style type="text/css">
+    .box{
+        padding: 20px;
+        display: none;
+        margin-top: 20px;
+        border: 1px solid #000;
+    }
+    .red{ background: #ff0000; }
+    .green{ background: #00ff00; }
+    .blue{ background: #0000ff; }
+</style>
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $("select").change(function(){
+        $(this).find("option:selected").each(function(){
+            if($(this).attr("value")=="VDK_QA_TCSCOPE_SANITY_2016-02-15T14-27-11"){
+                $(".box").not(".VDK_QA_TCSCOPE_SANITY_2016-02-15T14-27-11").hide();
+                $(".VDK_QA_TCSCOPE_SANITY_2016-02-15T14-27-11").show();
+            }
+            else if($(this).attr("value")=="VDK_QA_TCSCOPE_SANITY_2016-02-16T12-32-44"){
+                $(".box").not(".VDK_QA_TCSCOPE_SANITY_2016-02-16T12-32-44").hide();
+                $(".VDK_QA_TCSCOPE_SANITY_2016-02-16T12-32-44").show();
+            }
+            else{
+                $(".box").hide();
+            }
+        });
+    }).change();
+});
+</script>
+</head>
+<body>
+    <div>
+        <select>
+            <option>Choose Value</option>
+            <option value="VDK_QA_TCSCOPE_SANITY_2016-02-15T14-27-11">VDK_QA_TCSCOPE_SANITY_2016-02-15T14-27-11</option>
+            <option value="VDK_QA_TCSCOPE_SANITY_2016-02-16T12-32-44">VDK_QA_TCSCOPE_SANITY_2016-02-16T12-32-44</option>
+        </select>
+    </div>
+	<div class="VDK_QA_TCSCOPE_SANITY_2016-02-15T14-27-11 box"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><title>JIRA AUTOMATION Validation Report</title><align="center"><body><font color = "#303030" size="4"> <center> <b> JIRA REST API Report </center></body> </b> <br/> <body><table><table border = 1><tr></tr><td bgcolor=#45582D> <font color="#FFFFFF"><b><a name="UNIQUEINSTANCEID">VDK_QA_TCSCOPE_SANITY_2016-02-15T14-27-11.795764</a></b></td><tr></tr><td bgcolor=#45582D> <font color="#FFFFFF"><b><span class="valid" title="TestCaseId">TestCaseId</b></b></td><td bgcolor=#45582D> <font color="#FFFFFF"><b> <span class="valid" title="RESULT">Result</b></td><tr></tr><td bgcolor=#FFFFFF> <font color="#000000"><b>VDK-21</b></td><td  bgcolor="#730B00"> <font color="#000000"><b><a href="http://ontrack-internal.amd.com/secure/attachment/120678/VDK-21-VDK_QA_TCSCOPE_SANITY_2016-02-15T14-27-11.795764_Run.log" style="color: #FFFFFF" target="rightside">FAIL</a></b></td><tr></tr><td bgcolor=#FFFFFF> <font color="#000000"><b>VDK-22</b></td><td  bgcolor="#730B00"> <font color="#000000"><b><a href="http://ontrack-internal.amd.com/secure/attachment/120679/VDK-22-VDK_QA_TCSCOPE_SANITY_2016-02-15T14-27-11.795764_Run.log" style="color: #FFFFFF" target="rightside">FAIL</a></b></td><tr></tr></table></div>
+	<div class="VDK_QA_TCSCOPE_SANITY_2016-02-16T12-32-44 box"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><title>JIRA AUTOMATION Validation Report</title><align="center"><body><font color = "#303030" size="4"> <center> <b> JIRA REST API Report </center></body> </b> <br/> <body><table><table border = 1><tr></tr><td bgcolor=#45582D> <font color="#FFFFFF"><b><a name="UNIQUEINSTANCEID">VDK_QA_TCSCOPE_SANITY_2016-02-16T12-32-44.302437</a></b></td><tr></tr><td bgcolor=#45582D> <font color="#FFFFFF"><b><span class="valid" title="TestCaseId">TestCaseId</b></b></td><td bgcolor=#45582D> <font color="#FFFFFF"><b> <span class="valid" title="RESULT">Result</b></td><tr></tr><td bgcolor=#FFFFFF> <font color="#000000"><b>VDK-21</b></td><td  bgcolor="#730B00"> <font color="#000000"><b><a href="http://ontrack-internal.amd.com/secure/attachment/120832/VDK-21-VDK_QA_TCSCOPE_SANITY_2016-02-16T12-32-44.302437_Run.log" style="color: #FFFFFF" target="rightside">FAIL</a></b></td><tr></tr><td bgcolor=#FFFFFF> <font color="#000000"><b>VDK-22</b></td><td  bgcolor="#730B00"> <font color="#000000"><b><a href="http://ontrack-internal.amd.com/secure/attachment/120831/VDK-22-VDK_QA_TCSCOPE_SANITY_2016-02-16T12-32-44.302437_Run.log" style="color: #FFFFFF" target="rightside">FAIL</a></b></td><tr></tr></table></div>
+    
+</body>
+</html>    

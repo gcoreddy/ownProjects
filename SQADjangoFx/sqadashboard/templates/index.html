@@ -1,0 +1,57 @@
+<html>
+<head>
+<script type="text/javascript">
+  function showDiv(divID) {
+    var div = document.getElementById(divID);
+    div.style.display = ""; //display div
+  }
+
+  function hideDiv(divID) {
+    var div = document.getElementById(divID);
+    div.style.display = "none"; // hide
+  }
+
+  function hideAllDivs(Menu) {
+    //Loop through the seclect menu values and hide all
+    var selectMenu = document.getElementById(Menu);
+    for ( var i=0; i<=selectMenu.options.length -1; i++ ) {
+      hideDiv(selectMenu.options[i].value);
+    }
+	
+  }
+
+	function toggle(showID, Menu) {
+		if(showID === 'Other') window.location.href = 'http://www.google.com';
+		else {
+		hideAllDivs(Menu); // Hide all
+		showDiv(showID); // Show the one we asked for
+    }
+  }
+
+ 
+  window.onload = function() {
+	document.getElementById('selectMenu2').onchange = function() { toggle(this.options[this.options.selectedIndex].value, this.id) }
+  }
+</script>
+
+</head>
+<body>
+<form method="POST" action="">
+<strong>Equipment:</strong><br>
+<small>(Will you need any audio visual or computer equipment?):</small>
+<table>
+	<tr>
+        <td>
+		    <select name="equipment" onchange="if(this.options.selectedIndex==Other){window.location.href = 'http://www.google.com';return false;}" id="selectMenu2">
+				<option value="NothingSelect3">Please Select One</option>
+				<option value="YesEquipment">Yes, I will need equipment.</option>
+				<option value="NoEquipment">No, I will not need equipment.</option>
+				<option value="Other">Other</option>
+			</select>
+			<div id="NothingSelect3" style="display: none"></div>
+			<div id="YesEquipment" style="display: none">Yes</div>
+			<div id="NoEquipment" style="display: none">No</div>
+			<div id="Other" style="display: none">Redirect Automatically Please!</div>
+		</td>
+    </tr>
+</table>

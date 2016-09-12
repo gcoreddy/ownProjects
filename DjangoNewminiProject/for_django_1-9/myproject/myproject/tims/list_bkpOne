@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+	<head>	
+        <meta charset="utf-8">
+        <title>AMDFile server</title>
+	</head>
+<body bgcolor="#E6E6FA">
+
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $("select").change(function(){
+        $(this).find("option:selected").each(function(){
+            if($(this).attr("value")=="LISTFILES"){
+                $(".box").not(".LISTFILES").hide();
+                $(".LISTFILES").show();
+            }
+            else if($(this).attr("value")=="UPLOADFILES"){
+                $(".box").not(".UPLOADFILES").hide();
+                $(".UPLOADFILES").show();
+            }
+            else{
+                $(".box").hide();
+            }
+        });
+    }).change();
+});
+</script>
+</head>
+<body>
+    <div>
+            <select>	
+                <option>Choose value</option>
+                <option value="LISTFILES">LISTFILES</option>
+                <option value="UPLOADFILES">UPLOADFILES</option>
+          </select>
+    </div>
+	<div class="LISTFILES box">
+            {% if documents %}
+                <ul>
+			<head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><title>AMD FileServer Clips List</title><align="center"><body><font color = "#303030" size="4"> <center> <b> List of Clips in File Server</center></body> </b> <br/> <body><table><table border = 1><tr></tr><td bgcolor=#45582D> <font color="#FFFFFF"><b><span class="valid" title="CLIPNAME">CLIPNAME</b></b></td><td bgcolor=#45582D> <font color="#FFFFFF"><b> <span class="valid" title="CLIPTYPE">CLIPTYPE</b></td>
+                    {% for document in documents %}
+			<tr></tr></td><tr></tr><td bgcolor=#FFFFFF> <font color="#000000"><a href="{{ document.docfile.url }}">{{ document.docfile.name }}</a></td><td  bgcolor="#730B00"> <font color="#000000"><p>{{document.docfileType}}</p></b></td><tr></tr>
+                    {% endfor %}
+</table>
+                </ul>
+            {% else %}
+                <p>No documents.</p>
+            {% endif %}
+	</div>
+        <div class="UPLOADFILES box">
+	 <!-- Upload form. Note enctype attribute! -->
+        <form action="{% url "list" %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <p>{{ form.non_field_errors }}</p>
+
+            <p>{{ form.docfile.label_tag }} {{ form.docfile.help_text }}</p>
+
+            <p>
+                {{ form.docfile.errors }}
+                {{ form.docfile }}
+               {{ form.docfileType }}
+            </p>
+
+            <p><input type="submit" value="Upload"/></p>
+        </form>
+	</div>
+    </body>
+
+</html>
+

@@ -1,0 +1,22 @@
+testCases:
+
+1)Initialize and try to get the list of alarms .. None without any error
+2)Try to clear the alarms.
+3)try to get the alarm with alarmid... shuld throw an error.
+4)Try to get the alarm count ... it shold be zero.
+5)try to remove the alarm which doesn't exist..... it should raise an exception.
+6)try to update with alarm which doesn't exist.... should return alarm not found exception.
+7)add alarm and check the outut
+8)try to add an alarm with invalid data.... shuld raise an excetion.
+9)add alarm and check the count it should be increased
+10)add the alarm and try to get the alarm with alarmId
+11)Try to remove the alarm which is added and check the return value.
+12)Try to remove alarm which is already removed.... raise and excetion.
+13)add and remve and than again add ... 2nd time added alarm id should be 1(When deleted count value should be )
+14)add and check the count and remove and check the counter.
+15)udate with the valid input.
+16)update with the invalid input
+17)add multiple entries and try to get the values and it shuld return proper values.
+18)add multile entries and clear and check the count and list the alarms.
+19)add multiple entries and list the alarms.
+20)

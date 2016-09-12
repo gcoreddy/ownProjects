@@ -1,0 +1,64 @@
+<form action="{% url 'getQuery' %}" method="post">
+{% csrf_token %}
+<title>SQA Django Framework</title>
+<style>
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:0.5px;
+}
+#nav {
+    line-height:10px;
+    background-color:#eeeeee;
+    height:100px;
+    width:50px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:150px;
+    float:left;
+    padding:10px;	 	 
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+<h1>SQA Dashboard</h1>
+</div>
+<select name="OPTION">
+    <option value="QUERYRESULTS">QUERYRESULTS</option>
+    <option value="GENERATEREPORT">GENERATEREPORT</option>
+	<option value="COMPARERESULTS">COMPARERESULTS</option>
+	<option value="TRENDING">TRENDING</option>
+	<option value="PERFORMANCE">PERFORMANCE</option>
+  </select>
+  <br><br>
+  SCOPE: <input type="text" name="scope" required><br>
+  PROJECTNAME: <input type="text" name="projectName" required><br>
+  STARTDATE: <input type="date" name="startDate" required><br>
+  ENDDATE: <input type="date" name="endDate"><br>
+  CSVFILE:<input type="text" name="csvFile"><br>
+  GENERICSTRING<input type="text" name="genericString" required><br>
+  <input type="submit" />
+<div id="footer">
+Django based Framework for SQA Dashboard
+</div>
+<style>
+body {background-color:lightgrey;}
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+</style>
+</form>

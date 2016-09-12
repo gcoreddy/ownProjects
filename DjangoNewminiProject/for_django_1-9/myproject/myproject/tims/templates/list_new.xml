@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+        <meta charset="utf-8">
+        <title>AMDFile server</title>
+<style type="text/css">
+    .box{
+        padding: 20px;
+        display: none;
+        margin-top: 20px;
+        border: 1px solid #000;
+    }
+    .red{ background: #ff0000; }
+    .green{ background: #00ff00; }
+    .blue{ background: #0000ff; }
+</style>
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $("select").change(function(){
+        $(this).find("option:selected").each(function(){
+            if($(this).attr("value")=="LISTFILES"){
+                $(".box").not(".LISTFILES").hide();
+                $(".LISTFILES").show();
+            }
+            else if($(this).attr("value")=="UPLOADFILES"){
+                $(".box").not(".UPLOADFILES").hide();
+                $(".UPLOADFILES").show();
+            }
+            else{
+                $(".box").hide();
+            }
+        });
+    }).change();
+});
+</script>
+</head>
+<body>
+    <div>
+            <select>	
+                <option>Choose value</option>
+                <option value="LISTFILES">LISTFILES</option>
+                <option value="UPLOADGFILES">UPLOADFILES</option>
+          </select>
+    </div>
+	<div class="LISTFILES box">
+            {% if documents %}
+                <ul>
+                    {% for document in documents %}
+                        <li><a href="{{ document.docfile.url }}">{{ document.docfile.name }}</a></li>
+                    {% endfor %}
+                </ul>
+            {% else %}
+                <p>No documents.</p>
+            {% endif %}
+	</div>
+        <div class="UPLOADFILES box">
+	 <!-- Upload form. Note enctype attribute! -->
+        <form action="{% url "list" %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <p>{{ form.non_field_errors }}</p>
+
+            <p>{{ form.docfile.label_tag }} {{ form.docfile.help_text }}</p>
+
+            <p>
+                {{ form.docfile.errors }}
+                {{ form.docfile }}
+                {{ form.docfileType }}
+            </p>
+
+            <p><input type="submit" value="Upload"/></p>
+        </form>
+	</div>
+    </body>
+
+</html>
+

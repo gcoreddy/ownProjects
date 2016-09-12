@@ -1,0 +1,1745 @@
+SPRINT NO,ISSUEID,ISSUE TYPE,STATE,RELATES TO,ESTIMATED TIME,START DATE,END DATE,COMPLETE DATE,DAY1,DAY2,DAY3,DAY4,DAY5,DAY6,DAY7,DAY8,DAY9,DAY10,DAY11,DAY12,DAY13,DAY14,DAY15,DAY16,DAY17,DAY18,DAY19,DAY20,DAY21,DAY22,DAY23,DAY24,DAY25,DAY26,DAY27,DAY28,DAY29,DAY30,DAY31
+Sprint 5,,,CLOSED,,,25/May/15 12:11 AM,13/Jun/15 11:11 PM,15/Jun/15 1:49 PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EG-3,Story,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow",,,,,,,,,,,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-5,Sub-task,,EG-3,12Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,,,,,,,,,,,,
+,EG-19,Sub-task,,EG-3,12Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,,,,,,,,"Field:timeestimate
+FromString:43200
+ToString:64800 
+ Field:timespent
+FromString:43200
+ToString:21600 
+ Field:WorklogId
+FromString:10726
+ToString:None",,,,,,,,"Field:timeestimate
+FromString:64800
+ToString:21600 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:10747
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-20,Sub-task,,EG-3,6Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:timeestimate
+FromString:64800
+ToString:21600 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:10747
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-21,Sub-task,,EG-3,12Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:timeestimate
+FromString:64800
+ToString:21600 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:10747
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-27,Sub-task,,EG-3,12Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-4,Story,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow",,,,,,,,,,,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-7,Sub-task,,EG-4,18Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-8,Sub-task,,EG-4,6Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-9,Sub-task,,EG-4,12Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-14,Sub-task,,EG-4,6Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-15,Sub-task,,EG-4,6Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-25,Sub-task,,EG-4,12Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-26,Sub-task,,EG-4,10Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+Sprint 7,,,CLOSED,,,06/Jul/15 2:59 AM,24/Jul/15 11:07 PM,28/Jul/15 11:13 AM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EG-39,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-40,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-41,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-42,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-43,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-44,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-45,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-46,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-47,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-48,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-49,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-50,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-51,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:summary
+FromString:Linux-Prebuilt sample execution issue
+ToString:Linux-Prebuilt sample execution failed",,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-52,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:assignee
+FromString:None
+ToString:Pavan Ramayanam",,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-53,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-54,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-55,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-56,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-57,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-58,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-59,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-60,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:priority
+FromString:Highest
+ToString:High",,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-61,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-62,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,,"Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-63,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-64,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-65,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-66,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-67,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-68,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-69,Bug,,,,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+Sprint 6,,,CLOSED,,,15/Jun/15 1:54 AM,03/Jul/15 11:54 PM,28/Jul/15 2:28 PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EG-32,Story,,,18Hours,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-33,Story,,,6Hours,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-34,Story,,,36Hours,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7",,,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-37,Sub-task,,EG-34,6Hours,,,,,"Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-35,Story,,,18Hours,,,,"Field:Workflow
+FromString:Agile Simplified Workflow for Project EG
+ToString:AMD Agile Workflow","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7","Field:timeestimate
+FromString:64800
+ToString:43200 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10915
+ToString:None",,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-36,Story,,,24Hours,,,,"Field:Rank
+FromString:
+ToString:Ranked higher","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7","Field:timeestimate
+FromString:64800
+ToString:43200 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10915
+ToString:None",,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-6,Sub-task,,EG-36,12Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+,EG-31,Story,,,30Hours,,,,"Field:Rank
+FromString:
+ToString:Ranked higher","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:timeestimate
+FromString:108000
+ToString:43200 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:10825
+ToString:None",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7","Field:timeestimate
+FromString:43200
+ToString:0 
+ Field:timespent
+FromString:64800
+ToString:194400 
+ Field:WorklogId
+FromString:10914
+ToString:None",,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,,,
+Sprint 11,,,CLOSED,,,19/Oct/15 3:50 AM,06/Nov/15 11:50 PM,13/Nov/15 1:59 PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EG-108,Story,,,60Hours,,,,"Field:assignee
+FromString:Kishor Kl
+ToString:Pavan Ramayanam","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:timeestimate
+FromString:108000
+ToString:43200 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:10825
+ToString:None",,,,"Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7","Field:timeestimate
+FromString:43200
+ToString:0 
+ Field:timespent
+FromString:64800
+ToString:194400 
+ Field:WorklogId
+FromString:10914
+ToString:None",,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-124,Sub-task,,EG-108,12Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-125,Sub-task,,EG-108,30Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:timeoriginalestimate
+FromString:43200
+ToString:108000",,,,,
+,EG-126,Sub-task,,EG-108,60Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-127,Sub-task,,EG-108,18Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,,,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-109,Story,,,18Hours,,,,"Field:assignee
+FromString:Kishor Kl
+ToString:Pavan Ramayanam","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:timeestimate
+FromString:108000
+ToString:43200 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:10825
+ToString:None",,,,"Field:resolution
+FromString:Done
+ToString:None","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7","Field:timeestimate
+FromString:43200
+ToString:0 
+ Field:timespent
+FromString:64800
+ToString:194400 
+ Field:WorklogId
+FromString:10914
+ToString:None",,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-110,Sub-task,,EG-109,6Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-111,Sub-task,,EG-109,12Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-112,Sub-task,,EG-109,6Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-113,Sub-task,,EG-109,12Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+Sprint 12,,,CLOSED,,,19/Oct/15 1:13 AM,06/Nov/15 11:21 PM,17/Nov/15 7:22 PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sprint 12,,,ACTIVE,,,09/Nov/15 12:00 AM,27/Nov/15 11:55 PM,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sprint 12,,,ACTIVE,,,09/Nov/15 2:01 AM,27/Nov/15 10:01 PM,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,EG-128,Story,,,30Hours,,,,"Field:assignee
+FromString:Kishor Kl
+ToString:Pavan Ramayanam","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:timeestimate
+FromString:108000
+ToString:43200 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:10825
+ToString:None","Field:timeestimate
+FromString:216000
+ToString:108000 
+ Field:timeoriginalestimate
+FromString:216000
+ToString:108000",,,"Field:resolution
+FromString:Done
+ToString:None","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7","Field:timeestimate
+FromString:43200
+ToString:0 
+ Field:timespent
+FromString:64800
+ToString:194400 
+ Field:WorklogId
+FromString:10914
+ToString:None",,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-131,Sub-task,,EG-128,18Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:timeestimate
+FromString:64800
+ToString:21600 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:12405
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:resolution
+FromString:None
+ToString:Done","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-138,Sub-task,,EG-128,12Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:timeestimate
+FromString:64800
+ToString:21600 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:12405
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:43200
+ToString:21600 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12503
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:12506
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-140,Sub-task,,EG-128,6Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:timeestimate
+FromString:64800
+ToString:21600 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:12405
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12501
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:12506
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-129,Story,,,30Hours,,,,"Field:assignee
+FromString:Kishor Kl
+ToString:Pavan Ramayanam","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:timeestimate
+FromString:108000
+ToString:43200 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:10825
+ToString:None","Field:timeestimate
+FromString:216000
+ToString:108000 
+ Field:timeoriginalestimate
+FromString:216000
+ToString:108000",,,"Field:resolution
+FromString:Done
+ToString:None","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7","Field:timeestimate
+FromString:43200
+ToString:0 
+ Field:timespent
+FromString:64800
+ToString:194400 
+ Field:WorklogId
+FromString:10914
+ToString:None",,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-133,Sub-task,,EG-129,12Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:timeestimate
+FromString:43200
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:43200 
+ Field:WorklogId
+FromString:12406
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12501
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:12506
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-134,Sub-task,,EG-129,6Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12407
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12501
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:12506
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-135,Sub-task,,EG-129,12Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:timeestimate
+FromString:43200
+ToString:21600 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12408
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:43200 
+ Field:WorklogId
+FromString:12408
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:12506
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-130,Story,,,18Hours,,,,"Field:assignee
+FromString:Kishor Kl
+ToString:Pavan Ramayanam","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:timeestimate
+FromString:108000
+ToString:43200 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:10825
+ToString:None","Field:timeestimate
+FromString:216000
+ToString:108000 
+ Field:timeoriginalestimate
+FromString:216000
+ToString:108000",,,"Field:resolution
+FromString:Done
+ToString:None","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7","Field:timeestimate
+FromString:43200
+ToString:0 
+ Field:timespent
+FromString:64800
+ToString:194400 
+ Field:WorklogId
+FromString:10914
+ToString:None",,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-139,Sub-task,,EG-130,6Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12409
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:43200 
+ Field:WorklogId
+FromString:12408
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:12506
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-136,Story,,,30Hours,,,,"Field:assignee
+FromString:Kishor Kl
+ToString:Pavan Ramayanam","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:Link
+FromString:None
+ToString:This issue relates to EG-38","Field:timeestimate
+FromString:108000
+ToString:43200 
+ Field:timespent
+FromString:None
+ToString:64800 
+ Field:WorklogId
+FromString:10825
+ToString:None","Field:timeoriginalestimate
+FromString:216000
+ToString:108000 
+ Field:timeestimate
+FromString:216000
+ToString:108000",,,"Field:resolution
+FromString:Done
+ToString:None","Field:Workflow
+FromString:AMD Agile Workflow
+ToString:DSE QA Workflow org","Field:Sprint
+FromString:None
+ToString:Sprint 7","Field:timeestimate
+FromString:43200
+ToString:0 
+ Field:timespent
+FromString:64800
+ToString:194400 
+ Field:WorklogId
+FromString:10914
+ToString:None",,,,,,,,,,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-137,Sub-task,,EG-136,18Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12409
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:108000
+ToString:64800 
+ Field:timeoriginalestimate
+FromString:108000
+ToString:64800","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:12506
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-132,Sub-task,,EG-136,30Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:Parent Issue
+FromString:EG-128
+ToString:EG-136",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:108000
+ToString:64800 
+ Field:timeoriginalestimate
+FromString:108000
+ToString:64800","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:21600
+ToString:64800 
+ Field:WorklogId
+FromString:12506
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-141,Sub-task,,EG-136,12Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:Parent Issue
+FromString:EG-128
+ToString:EG-136",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:108000
+ToString:64800 
+ Field:timeoriginalestimate
+FromString:108000
+ToString:64800","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:43200
+ToString:21600 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12510
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,,,
+,EG-143,Sub-task,,EG-136,3Hours,,,,"Field:Parent Issue
+FromString:EG-3
+ToString:EG-36","Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10603
+ToString:None",,"Field:resolution
+FromString:None
+ToString:Done","Field:Parent Issue
+FromString:EG-128
+ToString:EG-136",,,"Field:resolution
+FromString:None
+ToString:Done",,"Field:timeestimate
+FromString:108000
+ToString:64800 
+ Field:timeoriginalestimate
+FromString:108000
+ToString:64800","Field:timeestimate
+FromString:21600
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:10916
+ToString:None","Field:timeestimate
+FromString:43200
+ToString:21600 
+ Field:timespent
+FromString:None
+ToString:21600 
+ Field:WorklogId
+FromString:12510
+ToString:None",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:resolution
+FromString:None
+ToString:Done",,,,"Field:resolution
+FromString:None
+ToString:Done",,,"Field:timeestimate
+FromString:10800
+ToString:0 
+ Field:timespent
+FromString:None
+ToString:10800 
+ Field:WorklogId
+FromString:12700
+ToString:None",,
